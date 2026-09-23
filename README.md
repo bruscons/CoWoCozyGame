@@ -31,7 +31,7 @@ Built with the Godot Engine, CoWo combines dialogue-driven storytelling with min
 
 To play directly from your browser, follow this link: [SkillShapers](https://2023m1t9-inteli.github.io/grupo3/)
 
-> 🇧🇷 **Note:** CoWo is a Portuguese-language (PT-BR) build — all in-game dialogue, text, and UI are in Portuguese.
+> 🇧🇷 **Note:** CoWo is a Portuguese-language (PT-BR) build. All in-game dialogue, text, and UI are in Portuguese.
 
 ## 🛠 Folder Structure
 
@@ -103,6 +103,20 @@ To open this project, you'll need the following tools:
     * First implementation of the character mood mechanic
 * 0.1 - 02/10/2023
     * First implementation of the speech mechanic
+
+## My Contribution
+
+This was a collaborative academic project.
+
+My responsibilities included:
+
+* Idealized the training scenarios the player goes through and designed the dialogue choices tied to them.
+* Made the call on several art-direction decisions for the game.
+* Composed the game's soundtrack and ambient sound, and built the audio system that plays it (`Music.gd`, `Music.tscn`).
+
+I was responsible primarily for the scenario design, the player choices, and the music and sound design. The art assets and the game's programming were built by other team members.
+
+CoWo trains communication skills, so the scenarios and the choices inside them are the actual training content. The music and ambience were there to make players feel something during those scenes, which was the whole point of making training feel like a game instead of a lecture.
 
 ## 📋 License/License
 
