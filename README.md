@@ -8,26 +8,39 @@
 
 ## SkillShapers
 
-## Integrantes: <a href="https://www.linkedin.com/in/paulooctaviodepaula/">Paulo Octavio de Paula</a>, <a>Bruno Discacciati Vieiralves Martins</a>, <a href="https://www.linkedin.com/in/leonardoalvesnunes/">	Leonardo Alves Nunes</a>, <a href="https://www.linkedin.com/in/lucasdasilvabarbosa/">	Lucas da Silva Barbosa</a>, <a href="https://github.com/MatthiasCecchiniGuernet">	Matthias Cecchini Guernet</a>, <a href="https://github.com/Paula-zp">		Paula Zanella Piva</a>, <a href="https://www.linkedin.com/in/rafaella-bianca-cavalcante/">		Rafaella Bianca Cavalcante</a>
+## Team Members: <a href="https://www.linkedin.com/in/paulooctaviodepaula/">Paulo Octavio de Paula</a>, <a>Bruno Discacciati Vieiralves Martins</a>, <a href="https://www.linkedin.com/in/leonardoalvesnunes/">Leonardo Alves Nunes</a>, <a href="https://www.linkedin.com/in/lucasdasilvabarbosa/">Lucas da Silva Barbosa</a>, <a href="https://github.com/MatthiasCecchiniGuernet">Matthias Cecchini Guernet</a>, <a href="https://github.com/Paula-zp">Paula Zanella Piva</a>, <a href="https://www.linkedin.com/in/rafaella-bianca-cavalcante/">Rafaella Bianca Cavalcante</a>
 
-## Descrição
+## Description
 
-</p> O projeto do jogo CoWo foi criado como uma ferramenta para modernizar o treinamento de comunicação fornecido pela Cia de Talentos. O enredo e os personagens foram desenvolvidos para se alinhar aos objetivos do treinamento, com diálogos e tarefas que ajudam a aprimorar as habilidades do jogador. 
-O jogo foi pensado para ser uma ferramenta de treinamento interativo, que pudesse engajar e motivar os jogadores a participar do treinamento. Para isso, foram considerados os interesses pessoais do público-alvo e os desafios que eles enfrentam no ambiente corporativo.
+CoWo is a game project created as a tool to modernize the communication training provided by Cia de Talentos. Its storyline and characters were designed to align with the training's objectives, using dialogues and tasks that help players build and refine communication skills for the corporate environment.
+
+The game was conceived as an interactive training tool capable of engaging and motivating players to take part in the training process. To achieve this, the design considered the target audience's personal interests as well as the real challenges they face in the workplace, translating a traditionally lecture-based training format into a narrative-driven, hands-on experience.
+
+Built with the Godot Engine, CoWo combines dialogue-driven storytelling with minigames and a character mood system that reacts to the player's choices, reinforcing the practical, low-stakes practice of communication skills before applying them on the job.
+
+**Key features:**
+- Dialogue and speech mechanics built around real workplace communication scenarios
+- A character mood system that responds dynamically to the player's decisions
+- Minigames integrated into the main game flow to reinforce learning
+- A multisensory narrative system combining visuals, audio, and interaction cues
+- Available as a Windows executable, an Android APK, and a browser-based Web/HTML build
+
 <br><br>
 
-## 🎮 Jogue agora
+## 🎮 Play Now
 
-Para acessar o jogo diretamente do seu navegador entre no seguinte link: [SkillShapers](https://2023m1t9-inteli.github.io/grupo3/)
+To play directly from your browser, follow this link: [SkillShapers](https://2023m1t9-inteli.github.io/grupo3/)
 
-## 🛠 Estrutura de pastas
+> 🇧🇷 **Note:** CoWo is a Portuguese-language (PT-BR) build — all in-game dialogue, text, and UI are in Portuguese.
 
--Raiz<br>
+## 🛠 Folder Structure
+
+-Root<br>
 |<br>
 |-->docs<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|GDD.docx ou Documentação.docx<br>
+  &emsp;|GDD.docx or Documentação.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
@@ -36,82 +49,68 @@ Para acessar o jogo diretamente do seu navegador entre no seguinte link: [SkillS
 |-->src<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+The project root contains one file that should be reviewed:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+<b>README.MD</b>: The file that serves as a guide and general explanation of the project. The same one you are reading now.
 
-Há também 4 pastas que seguem da seguinte forma:
+There are also 4 folders, organized as follows:
 
-<b>docs</b>: Aqui serão colocados os arquivos compilados em HTML do jogo.
-<b>documentos</b>: Aqui estarão todos os documentos do projeto, mas principalmente o <b>GDD (Game Design Document)/Documentação do Sistema</b>. Há uma pasta <b>antigos</b> onde estarão todas as versões antigas da documentação.
+<b>docs</b>: This is where the compiled HTML build of the game is placed.
+<b>documentos</b>: This is where all project documents live, most notably the <b>GDD (Game Design Document) / System Documentation</b>. There is an <b>antigos</b> (old) folder holding all previous versions of the documentation.
 
-<b>executáveis</b>: Aqui estarão todos os executáveis do jogo, prontos para rodar. Há no mínimo 3 pastas, uma para binários <b>Windows</b>, uma para binários <b>android</b> e uma para a <b>Web/HTML</b>
+<b>executáveis</b>: This is where all the ready-to-run game executables live. There are at least 3 folders: one for <b>Windows</b> binaries, one for <b>Android</b> binaries, and one for the <b>Web/HTML</b> build.
 
-<b>imagens</b>: Algumas imagens do jogo/sistema e logos prontos para serem utilizados e visualizados.
+<b>imagens</b>: Game/system images and logos, ready to be used and viewed.
 
-<b>src</b>: Nesta pasta irá todo o código fonte do jogo/sistema, pronto para para ser baixado e modificado.
+<b>src</b>: This folder contains all of the game/system source code, ready to be downloaded and modified.
 
-## 🛠 Instalação
+## 🛠 Installation
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+Download the GAME.apk to your phone.
+Run the APK and follow your phone's instructions.
 
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+No installation required! Just an executable!
+Find GAME.exe in the executáveis (executables) folder and run it like any other program.
 
 <b>HTML:</b>
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+No installation required!
+Find index.html in the executáveis (executables) folder and open it as a web page (in any browser).
 
-## 💻 Configuração para Desenvolvimento
+## 💻 Development Setup
 
-1 - Faça o download do GODOT e deste repositório.
-2 - Abra o GODOT, ao ser prontificado clique em IMPORTAR.
-3 - Selecione a pasta onde descompactou este repositório.
+1 - Download GODOT and this repository.
+2 - Open GODOT, and when prompted, click IMPORT.
+3 - Select the folder where you unpacked this repository.
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+To open this project, you'll need the following tools:
 
 -<a href="https://godotengine.org/download">GODOT</a>
 
-## 🗃 Histórico de lançamentos
+## 🗃 Release History
 
-A cada atualização os detalhes devem ser lançados aqui.
+* 1.0 - 04/10/2023
+    * Bug fixes and design improvements
+* 0.8 - 03/24/2023
+    * First implementation of the narrative and multisensory system
+* 0.4 - 03/10/2023
+    * First implementation of the characters and the foundation of the game flow and minigames
+* 0.2 - 02/24/2023
+    * First implementation of the character mood mechanic
+* 0.1 - 02/10/2023
+    * First implementation of the speech mechanic
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
-* 0.1 - 10/02/2023
-    * Primeira implementação do mecanismo de fala
-* 0.2 - 24/02/2023
-    * Primeira implementação do mecanismo de humor dos personagens
-* 0.4 - 10/03/2023
-    * Primeira implementação dos personagens e a base do fluxo de jogo e minigames
-* 0.8 - 24/03/2023
-    * implementação da narrativa e do sistema multisensorial
-* 1.0 - 10/04/2023
-    * Ajuste de bugs e melhoria design
-
-## 📋 Licença/License
+## 📋 License/License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">INTELI, VICTOR BRUNO ALEXANDER ROSETTI DE QUIROZ</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-## 🎓 Referências
+## 🎓 References
 
-Aqui estão as referências usadas no projeto.
+Here are the references used in the project.
 
 1. <https://www.investopedia.com/terms/p/porter.asp>
 2. <https://www.investopedia.com/terms/s/swot.asp>
