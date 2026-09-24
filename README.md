@@ -8,6 +8,14 @@
 
 ## SkillShapers
 
+## My Role
+
+I was responsible primarily for scenario design, player choices, art-direction decisions, and music and sound design.
+
+I also composed the soundtrack and implemented the audio system in `Music.gd` and `Music.tscn`.
+
+[Read the full contribution breakdown](#my-contribution)
+
 ## Team Members: <a href="https://www.linkedin.com/in/paulooctaviodepaula/">Paulo Octavio de Paula</a>, <a>Bruno Discacciati Vieiralves Martins</a>, <a href="https://www.linkedin.com/in/leonardoalvesnunes/">Leonardo Alves Nunes</a>, <a href="https://www.linkedin.com/in/lucasdasilvabarbosa/">Lucas da Silva Barbosa</a>, <a href="https://github.com/MatthiasCecchiniGuernet">Matthias Cecchini Guernet</a>, <a href="https://github.com/Paula-zp">Paula Zanella Piva</a>, <a href="https://www.linkedin.com/in/rafaella-bianca-cavalcante/">Rafaella Bianca Cavalcante</a>
 
 ## Description
@@ -32,6 +40,47 @@ Built with the Godot Engine, CoWo combines dialogue-driven storytelling with min
 To play directly from your browser, follow this link: [SkillShapers](https://2023m1t9-inteli.github.io/grupo3/)
 
 > 🇧🇷 **Note:** CoWo is a Portuguese-language (PT-BR) build. All in-game dialogue, text, and UI are in Portuguese.
+
+## 🛠 Installation
+
+<b>Android:</b>
+
+Download the GAME.apk to your phone.
+Run the APK and follow your phone's instructions.
+
+<b>Windows:</b>
+
+No installation required! Just an executable!
+Find GAME.exe in the executáveis (executables) folder and run it like any other program.
+
+<b>HTML:</b>
+
+No installation required!
+Find index.html in the executáveis (executables) folder and open it as a web page (in any browser).
+
+## 💻 Development Setup
+
+1 - Download GODOT and this repository.
+2 - Open GODOT, and when prompted, click IMPORT.
+3 - Select the folder where you unpacked this repository.
+
+To open this project, you'll need the following tools:
+
+-<a href="https://godotengine.org/download">GODOT</a>
+
+## My Contribution
+
+This was a collaborative academic project.
+
+My responsibilities included:
+
+* Idealized the training scenarios the player goes through and designed the dialogue choices tied to them.
+* Made the call on several art-direction decisions for the game.
+* Composed the game's soundtrack and ambient sound, and built the audio system that plays it (`Music.gd`, `Music.tscn`).
+
+I was responsible primarily for the scenario design, the player choices, and the music and sound design. The art assets and the game's programming were built by other team members.
+
+CoWo trains communication skills, so the scenarios and the choices inside them are the actual training content. The music and ambience were there to make players feel something during those scenes, which was the whole point of making training feel like a game instead of a lecture.
 
 ## 🛠 Folder Structure
 
@@ -64,33 +113,6 @@ There are also 4 folders, organized as follows:
 
 <b>src</b>: This folder contains all of the game/system source code, ready to be downloaded and modified.
 
-## 🛠 Installation
-
-<b>Android:</b>
-
-Download the GAME.apk to your phone.
-Run the APK and follow your phone's instructions.
-
-<b>Windows:</b>
-
-No installation required! Just an executable!
-Find GAME.exe in the executáveis (executables) folder and run it like any other program.
-
-<b>HTML:</b>
-
-No installation required!
-Find index.html in the executáveis (executables) folder and open it as a web page (in any browser).
-
-## 💻 Development Setup
-
-1 - Download GODOT and this repository.
-2 - Open GODOT, and when prompted, click IMPORT.
-3 - Select the folder where you unpacked this repository.
-
-To open this project, you'll need the following tools:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
 ## 🗃 Release History
 
 * 1.0 - 04/10/2023
@@ -103,20 +125,6 @@ To open this project, you'll need the following tools:
     * First implementation of the character mood mechanic
 * 0.1 - 02/10/2023
     * First implementation of the speech mechanic
-
-## My Contribution
-
-This was a collaborative academic project.
-
-My responsibilities included:
-
-* Idealized the training scenarios the player goes through and designed the dialogue choices tied to them.
-* Made the call on several art-direction decisions for the game.
-* Composed the game's soundtrack and ambient sound, and built the audio system that plays it (`Music.gd`, `Music.tscn`).
-
-I was responsible primarily for the scenario design, the player choices, and the music and sound design. The art assets and the game's programming were built by other team members.
-
-CoWo trains communication skills, so the scenarios and the choices inside them are the actual training content. The music and ambience were there to make players feel something during those scenes, which was the whole point of making training feel like a game instead of a lecture.
 
 ## 📋 License/License
 
